@@ -3,3 +3,4 @@
 *.ko
 *.obj
 *.elf
+/100-test.py
